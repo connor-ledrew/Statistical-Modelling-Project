@@ -1,7 +1,7 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Final Project: Statistical Modelling with Python
 
 ## Project/Goals
-To demonstrate an understaning of API usage, environment variables, JSON-formattted data, EDA, data cleaning, SQLite in python, and multivariate analysis.
+To demonstrate an understanding of API usage, environment variables, JSON-formatted data, EDA, data cleaning, SQLite in Python, and multivariate analysis.
 
 ## Process
 1. Understand citybik.es
@@ -15,7 +15,7 @@ To demonstrate an understaning of API usage, environment variables, JSON-formatt
 8. Backward elimination multivariate linear regression
 
 ## Results
-No statistically singificant relationship was found between the Vancouver's points of interest (yelp reviewed) and total bike share slots.  It was postulated that additional bike slots would be allocated for areas with more popular businesses. However, analysis of the discovered variables show that there is little evidence to support this claim.  Subsequenty, it appears the typical city bike user is not primarily interested in points of interest. 
+No statistically significant relationship was found between Vancouver's points of interest (Yelp reviewed) and total bike share slots. It was postulated that additional bike slots would be allocated for areas with more popular businesses. However, analysis of the discovered variables show that there is little evidence to support this claim. Subsequently, it appears the typical city bike user is not primarily interested in points of interest.
 
 
 ## Challenges 
@@ -26,5 +26,5 @@ No statistically singificant relationship was found between the Vancouver's poin
 ## Future Goals
 A more valuable analysis could be conducted if additional time was allocated to:
 1. Collecting usage data over time
-2. Understanding the typical bike-share user behaviour to predict where to build/decomission stations and/or restock bikes.
+2. Understanding the typical bike-share user behaviour to predict where to build/decommission stations and/or restock bikes.
 3. Look for statistically significant relationship between bike-share usage and major chains, which may sponsor additional infrastructure.
